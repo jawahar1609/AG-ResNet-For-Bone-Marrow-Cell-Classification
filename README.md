@@ -8,7 +8,7 @@ for classifying multi-class bone marrow cells using ResNet50 and
 Attention Mechanisms, specifically Channel Attention Module
 (CAM) and Position Attention Module (PAM). In order to
 concentrate on informative features, our method takes advantage
-of the classification problem’s hierarchical structure and incorporates channel- and space-wise mechanisms for attention. On the
+of the classification problem’s hierarchical structure and incorporates channel- and space-wise mechanisms for attention. On the
 dataset for classifying bone marrow cells, we ran experiments
 and got an accuracy of 97.13%. The findings show the value
 of our suggested model for accurate and effective bone marrow
